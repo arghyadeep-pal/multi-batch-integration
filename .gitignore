@@ -1,0 +1,6 @@
+data/
+.env/
+__pycache__/
+*.h5ad
+.ipynb_checkpoints/
+.DS_Store
